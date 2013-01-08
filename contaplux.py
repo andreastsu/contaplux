@@ -70,7 +70,7 @@ def cls():
 def topMost():
     print(chr(27) + "[0;44m")
     cls()
-    print('ContaUno (c) andreas 2012, Empresa: %s Año: %s' % ('{:<43}'.format(EMPRESA), str(AFISCAL)))
+    print('ContaPlux (c) andreas 2012, Empresa: %s Año: %s' % ('{:<43}'.format(EMPRESA), str(AFISCAL)))
     print('=========================================================================================', end = "")
     print(chr(27) + "[0;44m")
     
