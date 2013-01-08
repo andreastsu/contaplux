@@ -176,6 +176,7 @@ FLASH = '''
  ___________________________________________PLUX__(XFREEDOM_GROUP_6nndemal6c6xinct.onion)
 '''
 
+#comentar las dos líneas siguientes para quitar la intro
 print(FLASH)
 time.sleep(1)
     
